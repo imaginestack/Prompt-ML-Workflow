@@ -1,7 +1,6 @@
-# ImagineStack Architecture Blueprint
+# Initial Preferences Blueprint
 
-To my future self, here are the effective steps and guiding principles that made our previous collaboration on ImagineStack's architecture successful. Use this as a blueprint to replicate the results and maintain the high standards we set.
-
+In each GPT session I share an initial pre-context preferences as a baseline foundation for tweaking effective steps and guiding principles that made our previous collaboration on ImagineStack's architecture successful. Use this as a blueprint to replicate the results and maintain the high standards we set.
 ## 1. Foundation Building and Stack Breakdown
 - Start with a **thorough breakdown of each component** in the hybrid Kubernetes stack. The initial goal is to establish a comprehensive understanding of **how each element functions independently** and how it integrates with the rest.
 - Carefully document each component (e.g., RKE2, Tailscale, Cilium, HAProxy), clearly explaining its role and purpose in the overall system. This **foundational knowledge** will help in making more informed decisions later.
